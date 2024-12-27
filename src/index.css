@@ -1,0 +1,24 @@
+#homepage{
+  height: calc(100vh - 56px);
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/139/444/1000/cristiano-ronaldo-wallpaper-preview.jpg") ;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.AboutImage{
+  height: 500px;
+}
+.Achivementitems{
+  font-size: 50px;
+}
+.Galleryimage{
+  height:500px;
+  object-fit: cover;
+  width: 100%;
+}
+#inputfeild{
+  height: 50vh;
+  background-color: black;
+}
